@@ -7,17 +7,34 @@ run `./get.sh` to download external payloads and unzip any payload files that ar
 
 ### Payload Credits
 
-- fuzzdb       - https://github.com/fuzzdb-project/fuzzdb
-- SecLists     - https://github.com/danielmiessler/SecLists
-- xsuperbug    - https://github.com/xsuperbug/payloads
-- NickSanzotta - https://github.com/NickSanzotta/BurpIntruder
-- 7ioSecurity  - https://github.com/7ioSecurity/XSS-Payloads
-- shadsidd     - https://github.com/shadsidd
-- shikari1337  - https://www.shikari1337.com/list-of-xss-payloads-for-cross-site-scripting/
-- xmendez      - https://github.com/xmendez/wfuzz
-- minimaxir    - https://github.com/minimaxir/big-list-of-naughty-strings
-- xsscx        - https://github.com/xsscx/Commodity-Injection-Signatures
-- TheRook      - https://github.com/TheRook/subbrute
+- fuzzdb         - https://github.com/fuzzdb-project/fuzzdb
+- SecLists       - https://github.com/danielmiessler/SecLists
+- xsuperbug      - https://github.com/xsuperbug/payloads
+- NickSanzotta   - https://github.com/NickSanzotta/BurpIntruder
+- 7ioSecurity    - https://github.com/7ioSecurity/XSS-Payloads
+- shadsidd       - https://github.com/shadsidd
+- shikari1337    - https://www.shikari1337.com/list-of-xss-payloads-for-cross-site-scripting/
+- xmendez        - https://github.com/xmendez/wfuzz
+- minimaxir      - https://github.com/minimaxir/big-list-of-naughty-strings
+- xsscx          - https://github.com/xsscx/Commodity-Injection-Signatures
+- TheRook        - https://github.com/TheRook/subbrute
+- danielmiessler - https://github.com/danielmiessler/RobotsDisallowed
+- FireFart       - https://github.com/FireFart/HashCollision-DOS-POC
+- HybrisDisaster - https://github.com/HybrisDisaster/aspHashDoS
+- swisskyrepo    - https://github.com/swisskyrepo/PayloadsAllTheThings
+- 1N3            - https://github.com/1N3/IntruderPayloads
+- cujanovic      - https://github.com/cujanovic/Open-Redirect-Payloads
+- cujanovic      - https://github.com/cujanovic/Content-Bruteforcing-Wordlist
+- cujanovic      - https://github.com/cujanovic/subdomain-bruteforce-list
+- cujanovic      - https://github.com/cujanovic/CRLF-Injection-Payloads
+- cujanovic      - https://github.com/cujanovic/Virtual-host-wordlist
+- cujanovic      - https://github.com/cujanovic/dirsearch-wordlist
+- lavalamp-      - https://github.com/lavalamp-/password-lists
+- arnaudsoullie  - https://github.com/arnaudsoullie/ics-default-passwords
+- scadastrangelove  - https://github.com/scadastrangelove/SCADAPASS
+- jeanphorn         - https://github.com/jeanphorn/wordlist
+- j3ers3            - https://github.com/j3ers3/PassList
+- nyxxxie           - https://github.com/nyxxxie/awesome-default-passwords
 
 #### OWASP
 - dirbuster              - https://www.owasp.org/index.php/DirBuster
@@ -38,10 +55,14 @@ run `./get.sh` to download external payloads and unzip any payload files that ar
 - xss/0xsobky.txt         - https://github.com/0xsobky/HackVault/wiki/Unleashing-an-Ultimate-XSS-Polyglot
 - xss/secgeek.txt         - https://www.secgeek.net/solutions-for-xss-waf-challenge/
 - xss/reddit_xss_get.txt  - All XSS GET requests from https://www.reddit.com/r/xss (as of 3/30/2016)
+- xss/rafaybaloch.txt     - http://www.rafayhackingarticles.net/2016/09/breaking-great-wall-of-web-xss-waf.html
 - sqli/camoufl4g3.txt     - https://github.com/camoufl4g3/SQLi-payload-Fuzz3R/blob/master/payloads.txt
 - sqli/c0rni3sm.txt       - http://c0rni3sm.blogspot.in/2016/02/a-quite-rare-mssql-injection.html
 - sqli/sqlifuzzer.txt     - https://github.com/ContactLeft/sqlifuzzer/tree/master/payloads
-- traversal/dotdotpwn.txt - https://github.com/wireghoul/dotdotpwn 
+- sqli/jstnkndy.txt       - https://foxglovesecurity.com/2017/02/07/type-juggling-and-php-object-injection-and-sqli-oh-my/
+- sqli/d0znpp.txt         - https://medium.com/@d0znpp/how-to-bypass-libinjection-in-many-waf-ngwaf-1e2513453c0f
+- traversal/dotdotpwn.txt - https://github.com/wireghoul/dotdotpwn
+- codeinjection/fede.txt  - https://techblog.mediaservice.net/2016/10/exploiting-ognl-injection/
 
 #### ctf
 

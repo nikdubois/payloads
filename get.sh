@@ -77,6 +77,104 @@ unzip master.zip
 rm master.zip
 mv subbrute-master subbrute
 
+### danielmiessler
+wget https://github.com/danielmiessler/RobotsDisallowed/archive/master.zip
+unzip master.zip
+rm master.zip
+mv RobotsDisallowed-master RobotsDisallowed
+
+### FireFart
+wget https://github.com/FireFart/HashCollision-DOS-POC/archive/master.zip
+unzip master.zip
+rm master.zip
+mv HashCollision-DOS-POC-master HashCollision-DOS-POC
+
+### HybrisDisaster
+wget https://github.com/FireFart/aspHashDoS/archive/master.zip
+unzip master.zip
+rm master.zip
+mv aspHashDoS-master aspHashDoS
+
+### swisskyrepo
+wget https://github.com/swisskyrepo/PayloadsAllTheThings/archive/master.zip
+unzip master.zip
+rm master.zip
+mv PayloadsAllTheThings-master PayloadsAllTheThings
+
+### 1N3
+wget https://github.com/1N3/IntruderPayloads/archive/master.zip
+unzip master.zip
+rm master.zip
+mv IntruderPayloads-master IntruderPayloads
+
+### cujanovic
+wget https://github.com/cujanovic/Open-Redirect-Payloads/archive/master.zip
+unzip master.zip
+rm master.zip
+mv Open-Redirect-Payloads-master Open-Redirect-Payloads
+
+wget https://github.com/cujanovic/Content-Bruteforcing-Wordlist/archive/master.zip
+unzip master.zip
+rm master.zip
+mv Content-Bruteforcing-Wordlist-master Content-Bruteforcing-Wordlist
+
+wget https://github.com/cujanovic/subdomain-bruteforce-list/archive/master.zip
+unzip master.zip
+rm master.zip
+mv subdomain-bruteforce-list-master subdomain-bruteforce-list
+
+wget https://github.com/cujanovic/CRLF-Injection-Payloads/archive/master.zip
+unzip master.zip
+rm master.zip
+mv CRLF-Injection-Payloads-master CRLF-Injection-Payloads
+
+wget https://github.com/cujanovic/Virtual-host-wordlist/archive/master.zip
+unzip master.zip
+rm master.zip
+mv Virtual-host-wordlist-master Virtual-host-wordlist
+
+wget https://github.com/cujanovic/dirsearch-wordlist/archive/master.zip
+unzip master.zip
+rm master.zip
+mv dirsearch-wordlist-master dirsearch-wordlist
+
+### lavalamp-
+wget https://github.com/lavalamp-/password-lists/archive/master.zip
+unzip master.zip
+rm master.zip
+mv password-lists-master password-lists
+
+### arnaudsoullie
+wget https://github.com/arnaudsoullie/ics-default-passwords/archive/master.zip
+unzip master.zip
+rm master.zip
+mv ics-default-passwords-master ics-default-passwords
+
+### scadastrangelove
+wget https://github.com/scadastrangelove/SCADAPASS/archive/master.zip
+unzip master.zip
+rm master.zip
+mv SCADAPASS-master SCADAPASS
+
+### jeanphorn
+wget https://github.com/jeanphorn/wordlist/archive/master.zip
+unzip master.zip
+rm master.zip
+mv wordlist-master wordlist
+
+### j3ers3
+wget https://github.com/j3ers3/PassList/archive/master.zip
+unzip master.zip
+rm master.zip
+mv PassList-master PassList
+
+### nyxxxie
+wget https://github.com/nyxxxie/awesome-default-passwords/archive/master.zip
+unzip master.zip
+rm master.zip
+mv awesome-default-passwords-master awesome-default-passwords
+
+
 ###### Uncompress these files
 echo Extracting compressed payload files...
 
